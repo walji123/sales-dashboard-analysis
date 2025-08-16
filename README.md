@@ -6,7 +6,7 @@ A beginner data analytics project exploring product sales, profit, and inventory
 Analyze product sales and inventory data to uncover trends by region, category, and time. Practice basic data analysis and create visual insights that could be used in a business setting.
 
 # Data Source
-- https://www.kaggle.com/ 
+- [https://www.kaggle.com/](https://www.kaggle.com/datasets/chadwambles/supermarket-sales) 
 
 # Tools & Libraries
 - Python (Pandas, Matplotlib, Seaborn)
